@@ -1,4 +1,4 @@
-# Design<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
     <a href="#home"><li>Home</li></a>
     <a href="#aboutus"><li>About us</li></a>
     <a href="#service"><li>Services</li></a>
-    <a href="#contact"><li>Contact</li></a></ul></details></a></td></tr></table> <hr></nav><br>
+    <a href="#contact"><li>Contact</li></a></ul></details></td></tr></table> <hr></nav><br>
     <div style="margin-left: 5px;">
     <img src="livingroom5gif.gif" alt="centered image" width="90%" height="600px" style="display: block; margin: 0 auto;">
 <section id="home">
